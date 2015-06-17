@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "d "
-    ],
-    "pluginsConfig": {}
+        "myPlugin@1.2.3"
+    ]
 }
